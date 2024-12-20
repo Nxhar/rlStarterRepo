@@ -1,0 +1,5 @@
+gymnasium
+swig
+box2d
+pygame
+stable-baselines3[extra]
